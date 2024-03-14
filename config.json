@@ -1,0 +1,17 @@
+{
+  "_comment1": "这是一个注释：不同路径下对应配置",
+  "envAddress": {
+    "strategycenter": {
+      "token": "X-XIQ-TOKEN",
+      "title": "极智但数据交易平台"
+    },
+    "fish": {
+      "token": "X-FISH-TOKEN",
+      "title": "FISH"
+    },
+    "equant": {
+      "token": "X-EQUANT-TOKEN",
+      "title": "EQUANT"
+    }
+  }
+}
